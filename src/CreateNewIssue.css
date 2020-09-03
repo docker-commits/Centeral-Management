@@ -1,0 +1,47 @@
+.create__issueHeader {
+  text-align: center;
+  padding-top: 30px;
+  color: gray;
+}
+.create__issueFooter {
+  text-align: center;
+  margin-top: 50px;
+}
+.create__issueFooter > button {
+  padding: 15px;
+  border-radius: 10px;
+}
+.Category__Tag {
+  max-width: 177px !important;
+  margin-bottom: 25px !important;
+}
+button {
+  background-color: #1377e5;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}
+.issue__header {
+  padding: 13px !important;
+  max-width: 160px !important;
+}
+.create__issueBody {
+  display: flex;
+  flex-direction: column;
+  /* margin-left: 45px; */
+  justify-content: space-evenly;
+  margin-top: 50px;
+  align-items: center;
+}
+.create__form > input {
+  max-width: 150px;
+  padding: 11px;
+  margin-bottom: 25px;
+  border-color: lightgray;
+}
+.create__form {
+  display: flex;
+
+  flex-direction: column;
+}
